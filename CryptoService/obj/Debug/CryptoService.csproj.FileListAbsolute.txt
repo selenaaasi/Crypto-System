@@ -1,0 +1,8 @@
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoService\bin\CryptoService.dll.config
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoService\bin\CryptoService.dll
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoService\bin\CryptoService.pdb
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoService\bin\CryptoLib.dll
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoService\bin\CryptoLib.pdb
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoService\obj\Debug\CryptoService.csprojResolveAssemblyReference.cache
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoService\obj\Debug\CryptoService.dll
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoService\obj\Debug\CryptoService.pdb

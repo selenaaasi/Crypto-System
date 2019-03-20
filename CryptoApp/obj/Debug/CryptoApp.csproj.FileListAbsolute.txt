@@ -1,0 +1,9 @@
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoApp\bin\Debug\CryptoApp.exe.config
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoApp\bin\Debug\CryptoApp.exe
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoApp\bin\Debug\CryptoApp.pdb
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoApp\obj\Debug\CryptoApp.csprojResolveAssemblyReference.cache
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoApp\obj\Debug\CryptoApp.Form1.resources
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoApp\obj\Debug\CryptoApp.Properties.Resources.resources
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoApp\obj\Debug\CryptoApp.csproj.GenerateResource.Cache
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoApp\obj\Debug\CryptoApp.exe
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoApp\obj\Debug\CryptoApp.pdb

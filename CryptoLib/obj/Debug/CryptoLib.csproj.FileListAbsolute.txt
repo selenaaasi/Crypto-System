@@ -1,0 +1,5 @@
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoLib\bin\Debug\CryptoLib.pdb
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoLib\obj\Debug\CryptoLib.dll
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoLib\obj\Debug\CryptoLib.pdb
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoLib\obj\Debug\CryptoLib.csprojResolveAssemblyReference.cache
+c:\users\selenas\documents\visual studio 2013\Projects\CryptoLib\CryptoLib\bin\Debug\CryptoLib.dll
